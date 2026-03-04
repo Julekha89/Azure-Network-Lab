@@ -1,1 +1,22 @@
+🚀 Azure Network Lab – Hub-Spoke Hybrid Architecture
+📌 Overview
 
+This lab demonstrates deployment of a secure Azure network architecture including:
+
+Virtual Network with segmented subnets
+
+Multiple Virtual Machines
+
+Azure Load Balancer
+
+Application Gateway (WAF)
+
+Azure Firewall
+
+Network Security Groups
+
+Public IP configuration
+
+Hybrid connectivity (VPN Gateway concept)
+
+The objective was to simulate a real-world enterprise cloud network with traffic validation and segmentation controls.
